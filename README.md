@@ -1,2 +1,2 @@
 # Scripts-PowerShell
-Repositório de Scripts do Power Shell 
+Repositório de Scripts
